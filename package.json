@@ -1,0 +1,11 @@
+{
+  "name": "syntaxexercise",
+  "version": "1.0.0",
+  "description": "Syntax exercise's solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almog Oz",
+  "license": "ISC"
+}
